@@ -11,7 +11,7 @@ The project benefits farmers, agricultural researchers, and precision farming sy
 - Provides a foundation for real-world deployment in smart farming solutions
 
 ---
-
+ 
 ## Table of Contents
 
 - [Introduction](#introduction)
